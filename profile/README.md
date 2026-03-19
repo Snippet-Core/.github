@@ -1,41 +1,44 @@
 <div align="center">
-  <img src="https://usesnippet.app/assets/snippet-logo-white.svg" height="52" alt="Snippet" />
 
-  <br />
-  <br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://usesnippet.app/assets/snippet-logo-white.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://usesnippet.app/assets/Snippet%20Logo.svg">
+  <img src="https://usesnippet.app/assets/Snippet%20Logo.svg" height="44" alt="Snippet">
+</picture>
 
-  <p>
-    <strong>24/7 AI Talent Manager for Content Creators</strong><br />
-    <span>Find brand deals · Automate outreach · Negotiate rates · No commissions</span>
-  </p>
+<br/>
+<br/>
 
-  <br />
+**AI Talent Manager for Content Creators**
 
-  [![Website](https://img.shields.io/badge/usesnippet.app-F59E0B?style=for-the-badge&logoColor=000000)](https://usesnippet.app)
-  [![Product Hunt](https://img.shields.io/badge/Product%20Hunt-37%20upvotes-FF6154?style=for-the-badge&logo=producthunt&logoColor=white)](https://www.producthunt.com/products/snippet-5?launch=snippet-5)
-  [![X](https://img.shields.io/badge/@usesnippet-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/usesnippet)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/usesnippet)
+Brand deals. Automated. No agencies. No commissions.
 
-  <br />
-  <br />
+<br/>
 
-  ---
+[![Website](https://img.shields.io/badge/usesnippet.app-F59E0B?style=flat-square&logoColor=000)](https://usesnippet.app)&nbsp;
+[![X](https://img.shields.io/badge/@usesnippet-000?style=flat-square&logo=x&logoColor=white)](https://x.com/usesnippet)&nbsp;
+[![Product Hunt](https://img.shields.io/badge/Product%20Hunt%20·%2037%20upvotes-FF6154?style=flat-square&logo=producthunt&logoColor=white)](https://www.producthunt.com/products/snippet-5?launch=snippet-5)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/usesnippet)
 
-  ### What Snippet does
+</div>
 
-  Mid-tier creators (10K–1M followers) spend 60% of their time on admin — finding brands, writing pitches, chasing replies, negotiating rates. Traditional talent agencies charge 20%+ commissions and don't serve this segment.
+---
 
-  Snippet automates the entire brand deal pipeline from your Gmail. **Flat $99/month. No commissions.**
+Snippet is an AI talent manager built for mid-tier content creators (10K–1M followers). It automates the entire brand deal pipeline — discovery, outreach, follow-ups, inbox management, and rate negotiation — from your own Gmail.
 
-  | | |
-  |---|---|
-  | **Brand Discovery** | AI finds hundreds of brands that match your content and audience |
-  | **Personalized Outreach** | Tailored pitches sent from your Gmail — not from Snippet |
-  | **Inbox Monitoring** | Surfaces brand replies and filters opportunities automatically |
-  | **Rate Benchmarking** | Real market data so you never underprice a deal again |
+**68.8% of creators** earn their primary income from brand deals. **80% have no management.** Traditional agencies charge 20–30% commissions and don't serve this segment. Snippet replaces them at $99/month flat.
 
-  <br />
+### How it works
 
-  [![Get started](https://img.shields.io/badge/Start%20free%20trial-F59E0B?style=for-the-badge&logoColor=000000)](https://usesnippet.app/login)
+1. **Connect** — Link your YouTube, Instagram, TikTok, or X profile
+2. **Discover** — AI surfaces hundreds of brands matching your content and audience  
+3. **Outreach** — Personalized pitches sent from your Gmail automatically
+4. **Close** — Inbox monitoring surfaces brand replies and the best opportunities
+
+---
+
+<div align="center">
+
+[**Start your free 7-day trial →**](https://usesnippet.app/login)
 
 </div>
