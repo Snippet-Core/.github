@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Snippet-Core/.github/main/assets/og-image.png" width="600" alt="Snippet — AI Talent Manager for Content Creators" />
+<img src="https://raw.githubusercontent.com/Snippet-Core/.github/main/assets/og-image.png" width="380" alt="Snippet — AI Talent Manager for Content Creators" />
 
 <br/>
 <br/>
@@ -14,7 +14,11 @@
 [![Website](https://img.shields.io/badge/usesnippet.app-F59E0B?style=flat-square&logoColor=000)](https://usesnippet.app)&nbsp;
 [![Product Hunt](https://img.shields.io/badge/Product%20Hunt%20·%2037%20upvotes-FF6154?style=flat-square&logo=producthunt&logoColor=white)](https://www.producthunt.com/products/snippet-5?launch=snippet-5)&nbsp;
 [![X](https://img.shields.io/badge/@usesnippet-000?style=flat-square&logo=x&logoColor=white)](https://x.com/usesnippet)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/usesnippet)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/usesnippet)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/usesnippet)&nbsp;
+[![Crunchbase](https://img.shields.io/badge/Crunchbase-0288D1?style=flat-square&logo=crunchbase&logoColor=white)](https://www.crunchbase.com/organization/snippet-08d8)&nbsp;
+[![Capterra](https://img.shields.io/badge/Capterra-FF3D57?style=flat-square&logo=capterra&logoColor=white)](https://www.capterra.com/p/10036981/Snippet/)&nbsp;
+[![TrustMRR](https://img.shields.io/badge/TrustMRR-22C55E?style=flat-square&logoColor=white)](https://trustmrr.com/startup/snippet)
 
 </div>
 
