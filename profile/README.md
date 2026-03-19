@@ -2,12 +2,12 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Snippet-Core/.github/main/assets/snippet-logo-white.svg" height="48" alt="Snippet" />
+<img src="https://raw.githubusercontent.com/Snippet-Core/.github/main/assets/og-image.png" width="600" alt="Snippet — AI Talent Manager for Content Creators" />
 
 <br/>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=620&lines=Get+brand+deals+without+the+busywork.;AI+finds+brands+that+fit+your+content.;Pitches+sent+from+your+Gmail+automatically.;%2499%2Fmonth.+No+commissions.+Zero+drama.)](https://usesnippet.app)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=620&lines=Get+brand+deals+without+the+busywork.;AI+finds+brands+that+fit+your+content.;Pitches+sent+from+your+Gmail+automatically.;%2499%2Fmonth.+No+commissions.+Zero+drama.)](https://usesnippet.app)
 
 <br/>
 
